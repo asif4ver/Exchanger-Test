@@ -20,7 +20,8 @@ namespace TestApp1.Controllers
         }
 
 
-        [HttpGet(Name = "convert")]
+        [HttpGet]
+        [Route("convert")]
         public IActionResult GetExchangeRates(string sourceCur, string targetCur, decimal conversionVal)
         {
 
