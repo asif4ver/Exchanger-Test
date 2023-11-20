@@ -1,0 +1,28 @@
+{
+  "Converters": [
+    {
+      "Key": "USD_TO_INR",
+      "Value": "80.758"
+    },
+    {
+      "Key": "INR_TO_USD",
+      "Value": "0.013"
+    },
+    {
+      "Key": "USD_TO_EUR",
+      "Value": "0.850"
+    },
+    {
+      "Key": "EUR_TO_USD",
+      "Value": "1.180"
+    },
+    {
+      "Key": "INR_TO_EUR",
+      "Value": "0.011"
+    },
+    {
+      "Key": "EUR_TO_INR",
+      "Value": "88.000"
+    }
+  ]
+}
